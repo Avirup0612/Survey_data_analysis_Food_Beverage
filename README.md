@@ -9,8 +9,8 @@ We have conducted a survey regarding consumer behaviour, overall brand performan
 
 ## Description of Datasets given by the company
 
-*\*The Company has given excel files as data.
-This description will give us the idea about the initial structure of the data*
+*\*The Company has given Excel files as data.
+This description will give us an idea about the initial structure of the data*
 
 
 **Column Description for dim_respondents :**
@@ -30,7 +30,7 @@ This description will give us the idea about the initial structure of the data*
 
 **City_ID :** This column represents the ID of the city.
 
-**City :** This column represents name of the city where the respondent is located. ("Delhi","Mumbai", "Bangalore","Chennai", "Kolkata","Hyderabad", "Ahmedabad","Pune","Jaipur", "Lucknow")
+**City :** This column represents the name of the city where the respondent is located. ("Delhi","Mumbai", "Bangalore","Chennai", "Kolkata","Hyderabad", "Ahmedabad","Pune","Jaipur", "Lucknow")
 
 **Tier :** This column represents the tier category of the city
 
@@ -222,7 +222,7 @@ Our task is to analyze the data collected based on the survey questions and answ
 
 ## Methodology used / Workflow
 
-- We have used pivot tables and pivot charts to visualize and analyze the survey data to get insights from it.
+We have used pivot tables and pivot charts to visualize and analyze the survey data to get insights from it.
 
 ## Files
 
@@ -238,4 +238,4 @@ This project is created by **Avirup Mitra**
 
 Please feel free to DM for any suggestions and improvements or any other queries. Thank you for your time.
 
-**This is an overview of the project. Please refer to the main project files for detailed result**
+**This is an overview of the project. Please refer to the main project files for detailed results**
