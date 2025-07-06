@@ -42,12 +42,12 @@ This description will give us an idea about the initial structure of the data*
 
 - **Consume_frequency :** This column represents the response received for the below question.
 
-	How often do you consume energy drinks?
-		- Daily
-		- 2-3 times a week
-		- Once a week
-		- 2-3 times a month
-		- Rarely
+		How often do you consume energy drinks?
+			- Daily
+			- 2-3 times a week
+			- Once a week
+			- 2-3 times a month
+			- Rarely
 
 - **Consume_time :** This column represents the response received for the below question.
 
